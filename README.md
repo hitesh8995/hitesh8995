@@ -40,6 +40,8 @@
 ## 📫 Connect with me
 
 GitHub: https://github.com/hitesh8995
+
+
 ![Python](https://img.shields.io/badge/Python-Programming-blue)
 ![Linux](https://img.shields.io/badge/Linux-System-green)
 ![AI](https://img.shields.io/badge/AI-DeepLearning-orange)
