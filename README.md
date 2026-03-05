@@ -16,7 +16,7 @@
 - 🔭 Currently exploring **Deep Learning Inference Optimization** and **Network Security**
 - 🌱 Learning **OpenVINO**, **DL Streamer**, and **Linux Systems**
 - 💡 Love building projects that bridge **AI and Systems-level programming**
-- 📫 Reach me at: [Your Email] | [LinkedIn Profile]
+- 📫 Reach me at: [hiteshchoudhary8995@gmail.com] | [https://www.linkedin.com/in/hitesh-cse]
 
 ---
 
