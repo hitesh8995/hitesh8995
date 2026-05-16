@@ -86,7 +86,7 @@ A production-ready college event management platform designed for engineering co
 
 ---
 
-### 🔹 [Secure WireGuard VPN](https://github.com/hitesh8995/WireGuard-VPN)
+### 🔹 [Secure WireGuard VPN](https://github.com/hitesh8995/secure-wireguard-vpn)
 **Networking | Linux | Security**
 
 - Configured and deployed a **secure VPN infrastructure** using WireGuard protocol
