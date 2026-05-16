@@ -71,7 +71,7 @@ A production-ready college event management platform designed for engineering co
 
 ---
 
-### 🔹 [DL Streamer Pipeline Scalability](https://github.com/hitesh8995/DL-Streamer-Scalability)
+### 🔹 [DL Streamer Pipeline Scalability](https://github.com/hitesh8995/dlstreamer_project)
 **Intel OpenVINO | Python | Video Analytics**
 
 - Built a high-performance deep learning inference pipeline using **Intel DL Streamer**
